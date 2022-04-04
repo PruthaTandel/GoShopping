@@ -1,0 +1,1 @@
+package application_part_for_Goshopping;
